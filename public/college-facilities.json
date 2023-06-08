@@ -1,0 +1,26 @@
+[
+    {
+        "id": "#1",
+        "icon": "bi-bookmarks",
+        "title": "METHODOLOGY",
+        "desc": "Twee echo park celiac YOLO dreamcatcher bushwick. Pitchfork fam tousled sustainable."
+    },
+    {
+        "id": "#2",
+        "icon": "bi-house-gear",
+        "title": "FACILITY",
+        "desc": "Kitsch food truck franzen 3 wolf moon four loko palo santo. Asymmetrical artisan pok pok kickstarter pork belly meggings."
+    },
+    {
+        "id": "#3",
+        "icon": "bi-geo-alt",
+        "title": "LOCATION",
+        "desc": "Tote bag trust fund tacos organic four dollar toast kickstarter pork belly meggings fingerstache."
+    },
+    {
+        "id": "#4",
+        "icon": "bi-mortarboard",
+        "title": "COURSES",
+        "desc": "Authentic vexillologist incididunt adipisicing blog occupy williamsburg four dollar."
+    }
+]

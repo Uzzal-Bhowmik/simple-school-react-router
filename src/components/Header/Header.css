@@ -1,0 +1,68 @@
+.header .navbar {
+    font-family: 'Unbounded', cursive;
+}
+
+.navbar-brand {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.brand-name {
+    margin-bottom: 0;
+    font-weight: bolder;
+    color: rgb(255, 31, 31);
+    letter-spacing: 10px;
+    font-size: 1.4rem;
+}
+
+.navbar-brand img {
+    width: 17%;
+    margin-right: 10px;
+}
+
+
+.hero-section {
+    border: 1px solid;
+    height: 100vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-image: url("../../images/hero_banner.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat
+}
+
+.carousel {
+    width: 50%;
+    margin-left: 70px;
+}
+
+.carousel-item h1 {
+    letter-spacing: 4px;
+}
+
+.carousel-item button {
+    font-size: 12px;
+    padding: 10px 20px;
+    font-weight: 600;
+}
+
+.carousel-indicators {
+    bottom: -70px !important;
+    margin-left: 0 !important;
+    right: 73% !important;
+    justify-content: flex-start !important;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 11px !important;
+    height: 10px !important;
+    border-radius: 50%;
+    opacity: 1;
+}
+
+.carousel-indicators .active {
+    background-color: #ff1f1f !important;
+}
